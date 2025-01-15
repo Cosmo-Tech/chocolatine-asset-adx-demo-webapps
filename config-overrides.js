@@ -11,6 +11,7 @@ const cspConfigPolicy = {
     '*.api.cosmotech.com',
     'https://login.microsoftonline.com',
     'https://dc.services.visualstudio.com',
+    "https://asset-demo-bootcamp.app.cosmotech.com"
   ],
   'script-src': ["'self'"],
   'img-src': ["'self'", 'data:'],
